@@ -1,6 +1,5 @@
 
 
-## Aplicativo de cadastro de produtos para pequenas empresas.
+# Aplicativo para tratamento de requisão http e tratamento em listagem de produtos
 
 
-# Em desenvolvimento
